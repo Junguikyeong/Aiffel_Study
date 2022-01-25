@@ -1,2 +1,2 @@
-# aiffel_EX
-my Exploration
+# Aiffel_study
+Exploration & Going Deeper
